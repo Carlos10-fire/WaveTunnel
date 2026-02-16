@@ -1,0 +1,10 @@
+{
+  "nome": "fastssh.com-wavetunnel1",
+  "code": "12345",
+  "servidor": "us1.sshws.net",
+  "porta": "443",
+  "sni": "treinamento.signup.ao",
+  "payload": "GET / HTTP/1.1[crlf]Host: us1.sshws.net[crlf]Upgrade: websocket[crlf][crlf]",
+  "proxy": "treinamento.signup.ao",
+  "proxy_port": "80"
+}
