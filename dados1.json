@@ -1,1 +1,19 @@
-{"id": 1, "nome": "Dados 1", "status": "ativo", "data": "2026-02-16", "descricao": "Primeiro arquivo JSON"}
+{
+  "codes": [
+    {
+      "code": "CJ😎",
+      "days": 30,
+      "unlimited": true
+    },
+    {
+      "code": "VIP-1",
+      "days": 30,
+      "unlimited": false
+    },
+    {
+      "code": "VIP-2",
+      "days": 30,
+      "unlimited": false
+    }
+  ]
+}
